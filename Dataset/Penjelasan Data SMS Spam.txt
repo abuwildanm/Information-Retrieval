@@ -1,0 +1,22 @@
+Lisensi: https://creativecommons.org/licenses/by-sa/4.0/
+versi: 1.0 (Agt 2018)
+
+
+Penjelasan Label 
+0: sms normal 
+1: fraud atau penipuan 
+2: promo
+
+Catatan: 
+Data dibersihkan dari  informasi pribadi. Nama diganti dengan "nama1"
+
+Jumlah data: 1143
+Jumlah per kelas:
+0: 569
+1: 335
+2: 239
+
+Cara mensitasi:
+"Rahmi, F. and Wibisono, Y.  (2016). Aplikasi SMS Spam Filtering pada Android menggunakan Naive Bayes, Unpublished manuscript."
+
+Menerima sumbangan data spam SMS, silakan kontak yudi@upi.edu
